@@ -1,6 +1,6 @@
 _site
-_post-example
-Gemgile
+_post_example
+Gemfile
 Gemfile.lock
 .bundle
 .sass-cache
